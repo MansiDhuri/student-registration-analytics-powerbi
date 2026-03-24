@@ -43,7 +43,9 @@ Dim_EmailCampaigns (24 rows)
 Dim_Date (366 rows — generated using custom M code)
 
 📸 Screenshots
-
+![Executive Summary](screenshots/page1_executive_summary.png)
+![Event Performance](screenshots/page2_event_performance.png)
+![Email Campaign](screenshots/page3_email_campaign.png)
 
 📐 DAX Measures
 
