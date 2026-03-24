@@ -50,8 +50,9 @@ Dim_Date (366 rows — generated using custom M code)
 📐 DAX Measures
 
 All DAX measures are documented here:
+
 👉 dax/all_measures.md
 
 👤 Author
 
-Mansi Dhuri
+Mansi Dhuri - Data Analyst
