@@ -1,7 +1,9 @@
 🎓 Student Event Registration Analytics Dashboard
+
 Power BI | DAX | Star Schema | Education Domain
 
 📌 Project Overview
+
 An end-to-end Power BI dashboard built to track student event registration performance across 5 Indian cities for an education consultancy.
 The dashboard provides insights into:
 Registration trends
@@ -9,6 +11,7 @@ Event capacity utilization
 Email campaign effectiveness
 
 📊 Dashboard Pages
+
 | Page                  | Description                                              |
 | --------------------- | -------------------------------------------------------- |
 | **Executive Summary** | KPI cards, regional breakdown, monthly trends            |
